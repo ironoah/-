@@ -4,7 +4,7 @@ function out_footer() {
 </body>
 </html>
 
-EOF;
+EOF; 
 }
 
 function abort($message) {
