@@ -1,4 +1,4 @@
-<?php
+<?php  
 function out_footer() {
   echo <<< EOF
 </body>
