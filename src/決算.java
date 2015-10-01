@@ -35,5 +35,9 @@ class 決算 {
 	}
 	
 	public void 繰越試算表を作成する() {
+		System.out.println("現金.次期繰越   =  " + 現金.次期繰越  );
+		System.out.println("売掛金.次期繰越 =  " + 売掛金.次期繰越);
+		System.out.println("買掛金.次期繰越 =  " + 買掛金.次期繰越);
+		System.out.println("資本金.次期繰越 =  " + 資本金.次期繰越);
 	}
 }
