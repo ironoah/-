@@ -1,6 +1,6 @@
-class 決算 {
+class Kessan {
 	
-	決算() {
+	Kessan() {
 		// コンストラクタ
 	}
 	
