@@ -1,0 +1,2 @@
+class Brave extends Human {
+}
