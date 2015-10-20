@@ -1,7 +1,7 @@
 class Map { 
   Human human;
   
-  Map() {
+  Map() { 
     this.loadMap();
   }
   
