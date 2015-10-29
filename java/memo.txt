@@ -1,2 +1,2 @@
-java compile
+java compile:
   javac -encoding UTF-8 *.java & java name
