@@ -43,7 +43,6 @@ public class StateContext {
 
 
 
-
 public class TestClientState { 
 	public static void main(String[] args) { 
 		StateContext sc = new StateContext(); 
