@@ -4,4 +4,5 @@
  *                     (資本金),,         10000
  */
 class Shiwakecho {
+
 }

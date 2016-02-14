@@ -1,3 +1,4 @@
+// Eclipse Euro Test
 class BracQuest {
   public static void main(String[] args) {
     Brave b = new Brave();
