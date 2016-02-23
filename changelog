@@ -1,0 +1,17 @@
+2016-02-22  ironoah  <ironoah@github.com>
+
+　　　　* Unix: タイムゾーンを一時的に変更する方法: % TZ=GMT date
+　　　　土 11月  3 13:30:28 GMT 2001
+　　　　- TZ環境変数を変更すればいい
+
+　　　　* Ruby: Enumerable#inject の使い方
+　　　　% irb
+　　　　>> (1..10).inject(0) {|x, y| x + y}
+　　　　=> 55
+　　　　- Haskellの場合:
+　　　　% hugs
+　　　　Prelude> foldl (\ x y -> x + y) 0 [1..10] 
+　　　　55
+
+　　　　* アイディア: cdbiff: メールの到着を CD-ROMドライブがお知らせ
+　　　　- ejectコマンド一発。ローテクなところがいい
