@@ -1,5 +1,9 @@
 2016-03-26  ironoah <ironoah@gmail.com>
 
+	*/etc/apache2/sites-available/000-default.conf修正
+
+2016-03-26  ironoah <ironoah@gmail.com>
+
 	*boki修正
 	
 2016-03-19  ironoah <ironoah@gmail.com>
