@@ -1,0 +1,10 @@
+cat /etc/apache2/sites-available/000-default.conf 
+
+    WSGIScriptAlias /mydir /var/www/mydir/adapter.wsgi
+    <Directory /var/www/mydir>
+        Order deny,allow
+        Allow from all
+    </Directory>
+
+ls /var/www/mydir
+adapter.wsgi  bottle.py  hello_template.tpl  index.py  index_template.tpl
