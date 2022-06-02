@@ -17,7 +17,7 @@
   {
     "eword": "make fun of",
     "finish_flag": false,
-    "jdesc": ""
+    "jdesc": "からかう"
   },
   {
     "eword": "attract",
@@ -37,7 +37,7 @@
   {
     "eword": "frightened",
     "finish_flag": false,
-    "jdesc": ""
+    "jdesc": "おびえた"
   },
   {
     "eword": "gradually",
@@ -62,7 +62,7 @@
   {
     "eword": "owe",
     "finish_flag": false,
-    "jdesc": ""
+    "jdesc": "借りている"
   },
   {
     "eword": "run into",
