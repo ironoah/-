@@ -17,7 +17,7 @@
   {
     "eword": "make fun of",
     "finish_flag": false,
-    "jdesc": "をからかう"
+    "jdesc": ""
   },
   {
     "eword": "attract",
@@ -37,11 +37,146 @@
   {
     "eword": "frightened",
     "finish_flag": false,
-    "jdesc": "おびえた"
+    "jdesc": ""
   },
   {
     "eword": "gradually",
     "finish_flag": false,
     "jdesc": "だんだんと"
+  },
+  {
+    "eword": "approve",
+    "finish_flag": false,
+    "jdesc": "承認する"
+  },
+  {
+    "eword": "afford",
+    "finish_flag": false,
+    "jdesc": "余裕がある"
+  },
+  {
+    "eword": "arrange",
+    "finish_flag": false,
+    "jdesc": "の手配をする"
+  },
+  {
+    "eword": "owe",
+    "finish_flag": false,
+    "jdesc": ""
+  },
+  {
+    "eword": "run into",
+    "finish_flag": false,
+    "jdesc": "偶然出会う"
+  },
+  {
+    "eword": "stare",
+    "finish_flag": false,
+    "jdesc": "じっと見つめる"
+  },
+  {
+    "eword": "cut down",
+    "finish_flag": false,
+    "jdesc": "を減らす"
+  },
+  {
+    "eword": "make sense",
+    "finish_flag": false,
+    "jdesc": "意味をなす"
+  },
+  {
+    "eword": "hand in",
+    "finish_flag": false,
+    "jdesc": "提出する"
+  },
+  {
+    "eword": "point out",
+    "finish_flag": false,
+    "jdesc": "指摘する"
+  },
+  {
+    "eword": "come down",
+    "finish_flag": false,
+    "jdesc": "田舎へ来る"
+  },
+  {
+    "eword": "appreciate",
+    "finish_flag": false,
+    "jdesc": "価値を認める"
+  },
+  {
+    "eword": "attend",
+    "finish_flag": false,
+    "jdesc": "出席する"
+  },
+  {
+    "eword": "run out of",
+    "finish_flag": false,
+    "jdesc": "～がなくなる"
+  },
+  {
+    "eword": "demonstrate",
+    "finish_flag": false,
+    "jdesc": "を説明する"
+  },
+  {
+    "eword": "typically",
+    "finish_flag": false,
+    "jdesc": "典型的に"
+  },
+  {
+    "eword": "generous",
+    "finish_flag": false,
+    "jdesc": "寛大な"
+  },
+  {
+    "eword": "eventually",
+    "finish_flag": false,
+    "jdesc": "結局は"
+  },
+  {
+    "eword": "promising",
+    "finish_flag": false,
+    "jdesc": "前途要望な"
+  },
+  {
+    "eword": "rumer",
+    "finish_flag": false,
+    "jdesc": "噂"
+  },
+  {
+    "eword": "immediate",
+    "finish_flag": false,
+    "jdesc": "すぐの"
+  },
+  {
+    "eword": "sufficient",
+    "finish_flag": false,
+    "jdesc": "十分な"
+  },
+  {
+    "eword": "abroad",
+    "finish_flag": false,
+    "jdesc": "海外へ"
+  },
+  {
+    "eword": "obviously",
+    "finish_flag": false,
+    "jdesc": "明らかに"
+  },
+  {
+    "eword": "calm",
+    "finish_flag": false,
+    "jdesc": "穏やかな"
+  },
+  {
+    "eword": "thirst",
+    "finish_flag": false,
+    "jdesc": "渇望"
+  },
+  {
+    "eword": "grocery",
+    "finish_flag": false,
+    "jdesc": "食料品店"
   }
 ]
