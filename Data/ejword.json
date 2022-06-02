@@ -1,0 +1,47 @@
+[
+  {
+    "eword": "achieve",
+    "finish_flag": false,
+    "jdesc": "成し遂げる"
+  },
+  {
+    "eword": "acquire",
+    "finish_flag": true,
+    "jdesc": "獲得する"
+  },
+  {
+    "eword": "argue",
+    "finish_flag": false,
+    "jdesc": "主張する"
+  },
+  {
+    "eword": "make fun of",
+    "finish_flag": false,
+    "jdesc": "をからかう"
+  },
+  {
+    "eword": "attract",
+    "finish_flag": false,
+    "jdesc": "をひきつける"
+  },
+  {
+    "eword": "produce",
+    "finish_flag": false,
+    "jdesc": "を製造する"
+  },
+  {
+    "eword": "prefer",
+    "finish_flag": false,
+    "jdesc": "を好む"
+  },
+  {
+    "eword": "frightened",
+    "finish_flag": false,
+    "jdesc": "おびえた"
+  },
+  {
+    "eword": "gradually",
+    "finish_flag": false,
+    "jdesc": "だんだんと"
+  }
+]
