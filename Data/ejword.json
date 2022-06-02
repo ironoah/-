@@ -268,5 +268,110 @@
     "eword": "excuse",
     "finish_flag": false,
     "jdesc": "許す"
+  },
+  {
+    "eword": "page",
+    "finish_flag": false,
+    "jdesc": "呼び出す"
+  },
+  {
+    "eword": "envy",
+    "finish_flag": false,
+    "jdesc": "ねたむ"
+  },
+  {
+    "eword": "divorce",
+    "finish_flag": false,
+    "jdesc": "離婚する"
+  },
+  {
+    "eword": "resemble",
+    "finish_flag": false,
+    "jdesc": "似ている"
+  },
+  {
+    "eword": "state",
+    "finish_flag": false,
+    "jdesc": "述べる"
+  },
+  {
+    "eword": "eager",
+    "finish_flag": false,
+    "jdesc": "熱望して"
+  },
+  {
+    "eword": "particular",
+    "finish_flag": false,
+    "jdesc": "特別の"
+  },
+  {
+    "eword": "fluent",
+    "finish_flag": false,
+    "jdesc": "流ちょうな"
+  },
+  {
+    "eword": "subject",
+    "finish_flag": false,
+    "jdesc": "必要とする"
+  },
+  {
+    "eword": "rapid",
+    "finish_flag": false,
+    "jdesc": "急激な"
+  },
+  {
+    "eword": "tragic",
+    "finish_flag": false,
+    "jdesc": "悲惨な"
+  },
+  {
+    "eword": "attractive",
+    "finish_flag": false,
+    "jdesc": "魅力的な"
+  },
+  {
+    "eword": "certain",
+    "finish_flag": false,
+    "jdesc": "確信している"
+  },
+  {
+    "eword": "sure",
+    "finish_flag": false,
+    "jdesc": "きっと"
+  },
+  {
+    "eword": "seriously",
+    "finish_flag": false,
+    "jdesc": "本気で"
+  },
+  {
+    "eword": "equally",
+    "finish_flag": false,
+    "jdesc": "同様に"
+  },
+  {
+    "eword": "originally",
+    "finish_flag": false,
+    "jdesc": "最初は"
+  },
+  {
+    "eword": "yet",
+    "finish_flag": false,
+    "jdesc": "けれども"
+  },
+  {
+    "eword": "despite",
+    "finish_flag": false,
+    "jdesc": "～にもかかわらず"
+  },
+  {
+    "eword": "highly",
+    "finish_flag": false,
+    "jdesc": "非常に"
+  },
+  {
+    "eword": "exactly",
+    "finish_flag": false,
+    "jdesc": "ちょうど"
   }
 ]
