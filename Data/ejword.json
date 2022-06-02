@@ -178,5 +178,95 @@
     "eword": "grocery",
     "finish_flag": false,
     "jdesc": "食料品店"
+  },
+  {
+    "eword": "as though",
+    "finish_flag": false,
+    "jdesc": "まるで～のように"
+  },
+  {
+    "eword": "achievement",
+    "finish_flag": false,
+    "jdesc": "達成"
+  },
+  {
+    "eword": "herd",
+    "finish_flag": false,
+    "jdesc": "群れ"
+  },
+  {
+    "eword": "property",
+    "finish_flag": false,
+    "jdesc": "財産"
+  },
+  {
+    "eword": "outcome",
+    "finish_flag": false,
+    "jdesc": "結果"
+  },
+  {
+    "eword": "court case",
+    "finish_flag": false,
+    "jdesc": "訴訟"
+  },
+  {
+    "eword": "claim",
+    "finish_flag": false,
+    "jdesc": "主張"
+  },
+  {
+    "eword": "all at once",
+    "finish_flag": false,
+    "jdesc": "突然"
+  },
+  {
+    "eword": "eruption",
+    "finish_flag": false,
+    "jdesc": "噴火"
+  },
+  {
+    "eword": "obstacle",
+    "finish_flag": false,
+    "jdesc": "障害"
+  },
+  {
+    "eword": "wheat",
+    "finish_flag": false,
+    "jdesc": "小麦"
+  },
+  {
+    "eword": "advertising",
+    "finish_flag": false,
+    "jdesc": "広告"
+  },
+  {
+    "eword": "remain",
+    "finish_flag": false,
+    "jdesc": "変わらない"
+  },
+  {
+    "eword": "reform",
+    "finish_flag": false,
+    "jdesc": "改革する"
+  },
+  {
+    "eword": "hire",
+    "finish_flag": false,
+    "jdesc": "雇う"
+  },
+  {
+    "eword": "advertise",
+    "finish_flag": false,
+    "jdesc": "宣伝する"
+  },
+  {
+    "eword": "regret",
+    "finish_flag": false,
+    "jdesc": "後悔する"
+  },
+  {
+    "eword": "excuse",
+    "finish_flag": false,
+    "jdesc": "許す"
   }
 ]
