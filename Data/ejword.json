@@ -573,5 +573,110 @@
     "eword": "starve",
     "finish_flag": false,
     "jdesc": "飢える"
+  },
+  {
+    "eword": "acquaintance",
+    "finish_flag": false,
+    "jdesc": "知人"
+  },
+  {
+    "eword": "discipline",
+    "finish_flag": false,
+    "jdesc": "鍛錬"
+  },
+  {
+    "eword": "occasionally",
+    "finish_flag": false,
+    "jdesc": "時々"
+  },
+  {
+    "eword": "indeed",
+    "finish_flag": false,
+    "jdesc": "実に"
+  },
+  {
+    "eword": "favor",
+    "finish_flag": false,
+    "jdesc": "指示する"
+  },
+  {
+    "eword": "nod",
+    "finish_flag": false,
+    "jdesc": "うなずく"
+  },
+  {
+    "eword": "rob",
+    "finish_flag": false,
+    "jdesc": "奪う"
+  },
+  {
+    "eword": "suppose",
+    "finish_flag": false,
+    "jdesc": "思う"
+  },
+  {
+    "eword": "treasure",
+    "finish_flag": false,
+    "jdesc": "大切にする"
+  },
+  {
+    "eword": "tend",
+    "finish_flag": false,
+    "jdesc": "傾向がある"
+  },
+  {
+    "eword": "praise",
+    "finish_flag": false,
+    "jdesc": "称賛する"
+  },
+  {
+    "eword": "champion",
+    "finish_flag": false,
+    "jdesc": "擁護する"
+  },
+  {
+    "eword": "honor",
+    "finish_flag": false,
+    "jdesc": "称える"
+  },
+  {
+    "eword": "amount",
+    "finish_flag": false,
+    "jdesc": "達する"
+  },
+  {
+    "eword": "corner",
+    "finish_flag": false,
+    "jdesc": "買い占める"
+  },
+  {
+    "eword": "distinguish",
+    "finish_flag": false,
+    "jdesc": "区別する"
+  },
+  {
+    "eword": "overcome",
+    "finish_flag": false,
+    "jdesc": "克服する"
+  },
+  {
+    "eword": "promote",
+    "finish_flag": false,
+    "jdesc": "促進する"
+  },
+  {
+    "eword": "indicate",
+    "finish_flag": false,
+    "jdesc": "示す"
+  },
+  {
+    "eword": "intend",
+    "finish_flag": false,
+    "jdesc": "～するつもりである"
+  },
+  {
+    "eword": "involve",
+    "finish_flag": false,
+    "jdesc": "関与させる"
   }
 ]
