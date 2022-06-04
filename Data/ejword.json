@@ -678,5 +678,225 @@
     "eword": "involve",
     "finish_flag": false,
     "jdesc": "関与させる"
+  },
+  {
+    "eword": "prohibit",
+    "finish_flag": false,
+    "jdesc": "禁止する"
+  },
+  {
+    "eword": "obtain",
+    "finish_flag": false,
+    "jdesc": "取得する"
+  },
+  {
+    "eword": "frighten",
+    "finish_flag": false,
+    "jdesc": "怖がらせる"
+  },
+  {
+    "eword": "conclude",
+    "finish_flag": false,
+    "jdesc": "結論付ける"
+  },
+  {
+    "eword": "complicate",
+    "finish_flag": false,
+    "jdesc": "複雑にする"
+  },
+  {
+    "eword": "restrict",
+    "finish_flag": false,
+    "jdesc": "制限する"
+  },
+  {
+    "eword": "emphasize",
+    "finish_flag": false,
+    "jdesc": "強調する"
+  },
+  {
+    "eword": "admire",
+    "finish_flag": false,
+    "jdesc": "称賛する"
+  },
+  {
+    "eword": "mention",
+    "finish_flag": false,
+    "jdesc": "述べる"
+  },
+  {
+    "eword": "reward",
+    "finish_flag": false,
+    "jdesc": "報酬を与える"
+  },
+  {
+    "eword": "represent",
+    "finish_flag": false,
+    "jdesc": "表す"
+  },
+  {
+    "eword": "anxious",
+    "finish_flag": false,
+    "jdesc": "心配して"
+  },
+  {
+    "eword": "approximate",
+    "finish_flag": false,
+    "jdesc": "およその"
+  },
+  {
+    "eword": "precious",
+    "finish_flag": false,
+    "jdesc": "貴重な"
+  },
+  {
+    "eword": "loyal",
+    "finish_flag": false,
+    "jdesc": "忠実な"
+  },
+  {
+    "eword": "slight",
+    "finish_flag": false,
+    "jdesc": "わずかな"
+  },
+  {
+    "eword": "guilty",
+    "finish_flag": false,
+    "jdesc": "有罪の"
+  },
+  {
+    "eword": "latter",
+    "finish_flag": false,
+    "jdesc": "後半の"
+  },
+  {
+    "eword": "evident",
+    "finish_flag": false,
+    "jdesc": "明白な"
+  },
+  {
+    "eword": "mere",
+    "finish_flag": false,
+    "jdesc": "単なる"
+  },
+  {
+    "eword": "rural",
+    "finish_flag": false,
+    "jdesc": "田舎の"
+  },
+  {
+    "eword": "firm",
+    "finish_flag": false,
+    "jdesc": "安定した"
+  },
+  {
+    "eword": "continental",
+    "finish_flag": false,
+    "jdesc": "大陸の"
+  },
+  {
+    "eword": "awful",
+    "finish_flag": false,
+    "jdesc": "とても悪い"
+  },
+  {
+    "eword": "criminal",
+    "finish_flag": false,
+    "jdesc": "犯罪の"
+  },
+  {
+    "eword": "accurate",
+    "finish_flag": false,
+    "jdesc": "正確な"
+  },
+  {
+    "eword": "continual",
+    "finish_flag": false,
+    "jdesc": "絶え間のない"
+  },
+  {
+    "eword": "enormous",
+    "finish_flag": false,
+    "jdesc": "巨大な"
+  },
+  {
+    "eword": "competitive",
+    "finish_flag": false,
+    "jdesc": "競争の激しい"
+  },
+  {
+    "eword": "curious",
+    "finish_flag": false,
+    "jdesc": "好奇心をそそる"
+  },
+  {
+    "eword": "nevertheless",
+    "finish_flag": false,
+    "jdesc": "それでもやはり"
+  },
+  {
+    "eword": "possibly",
+    "finish_flag": false,
+    "jdesc": "もしかすると"
+  },
+  {
+    "eword": "further",
+    "finish_flag": false,
+    "jdesc": "さらに"
+  },
+  {
+    "eword": "merely",
+    "finish_flag": false,
+    "jdesc": "単に"
+  },
+  {
+    "eword": "constructive",
+    "finish_flag": false,
+    "jdesc": "建設的な"
+  },
+  {
+    "eword": "innocent",
+    "finish_flag": false,
+    "jdesc": "無罪の"
+  },
+  {
+    "eword": "regarding",
+    "finish_flag": false,
+    "jdesc": "～に関して"
+  },
+  {
+    "eword": "remotely",
+    "finish_flag": false,
+    "jdesc": "少しも～ない"
+  },
+  {
+    "eword": "besides",
+    "finish_flag": false,
+    "jdesc": "そのうえ"
+  },
+  {
+    "eword": "throughout",
+    "finish_flag": false,
+    "jdesc": "～の至る所に"
+  },
+  {
+    "eword": "practically",
+    "finish_flag": false,
+    "jdesc": "実際には"
+  },
+  {
+    "eword": "quite",
+    "finish_flag": false,
+    "jdesc": "かなり"
+  },
+  {
+    "eword": "particularly",
+    "finish_flag": false,
+    "jdesc": "特に"
+  },
+  {
+    "eword": "tough",
+    "finish_flag": false,
+    "jdesc": "つらい"
   }
 ]
