@@ -52,7 +52,7 @@
   {
     "eword": "afford",
     "finish_flag": false,
-    "jdesc": "余裕がある"
+    "jdesc": "～する余裕がある"
   },
   {
     "eword": "arrange",
@@ -373,5 +373,205 @@
     "eword": "exactly",
     "finish_flag": false,
     "jdesc": "ちょうど"
+  },
+  {
+    "eword": "composition",
+    "finish_flag": false,
+    "jdesc": "構成"
+  },
+  {
+    "eword": "voyage",
+    "finish_flag": false,
+    "jdesc": "船旅"
+  },
+  {
+    "eword": "consideration",
+    "finish_flag": false,
+    "jdesc": "考慮"
+  },
+  {
+    "eword": "efficiency",
+    "finish_flag": false,
+    "jdesc": "効率"
+  },
+  {
+    "eword": "pardon",
+    "finish_flag": false,
+    "jdesc": "許し"
+  },
+  {
+    "eword": "humidity",
+    "finish_flag": false,
+    "jdesc": "湿度"
+  },
+  {
+    "eword": "circumstance",
+    "finish_flag": false,
+    "jdesc": "状況"
+  },
+  {
+    "eword": "criticism",
+    "finish_flag": false,
+    "jdesc": "批判"
+  },
+  {
+    "eword": "breakdown",
+    "finish_flag": false,
+    "jdesc": "故障"
+  },
+  {
+    "eword": "instrument",
+    "finish_flag": false,
+    "jdesc": "器具"
+  },
+  {
+    "eword": "failure",
+    "finish_flag": false,
+    "jdesc": "怠慢"
+  },
+  {
+    "eword": "instruction",
+    "finish_flag": false,
+    "jdesc": "指示"
+  },
+  {
+    "eword": "checkup",
+    "finish_flag": false,
+    "jdesc": "検診"
+  },
+  {
+    "eword": "aspect",
+    "finish_flag": false,
+    "jdesc": "局面"
+  },
+  {
+    "eword": "evolution",
+    "finish_flag": false,
+    "jdesc": "進化"
+  },
+  {
+    "eword": "imbalance",
+    "finish_flag": false,
+    "jdesc": "アンバランス"
+  },
+  {
+    "eword": "grain",
+    "finish_flag": false,
+    "jdesc": "穀物"
+  },
+  {
+    "eword": "surrounding",
+    "finish_flag": false,
+    "jdesc": "環境"
+  },
+  {
+    "eword": "substance",
+    "finish_flag": false,
+    "jdesc": "物質"
+  },
+  {
+    "eword": "application",
+    "finish_flag": false,
+    "jdesc": "申し込み"
+  },
+  {
+    "eword": "term",
+    "finish_flag": false,
+    "jdesc": "条件"
+  },
+  {
+    "eword": "arrangement",
+    "finish_flag": false,
+    "jdesc": "手配"
+  },
+  {
+    "eword": "infant",
+    "finish_flag": false,
+    "jdesc": "幼児"
+  },
+  {
+    "eword": "measure",
+    "finish_flag": false,
+    "jdesc": "措置"
+  },
+  {
+    "eword": "purse",
+    "finish_flag": false,
+    "jdesc": "ハンドバッグ"
+  },
+  {
+    "eword": "innocence",
+    "finish_flag": false,
+    "jdesc": "無罪"
+  },
+  {
+    "eword": "poverty",
+    "finish_flag": false,
+    "jdesc": "貧乏"
+  },
+  {
+    "eword": "appetite",
+    "finish_flag": false,
+    "jdesc": "食欲"
+  },
+  {
+    "eword": "curiosity",
+    "finish_flag": false,
+    "jdesc": "好奇心"
+  },
+  {
+    "eword": "variation",
+    "finish_flag": false,
+    "jdesc": "変化"
+  },
+  {
+    "eword": "assure",
+    "finish_flag": false,
+    "jdesc": "保証する"
+  },
+  {
+    "eword": "patience",
+    "finish_flag": false,
+    "jdesc": "忍耐"
+  },
+  {
+    "eword": "insurance",
+    "finish_flag": false,
+    "jdesc": "保険"
+  },
+  {
+    "eword": "debt",
+    "finish_flag": false,
+    "jdesc": "借金"
+  },
+  {
+    "eword": "species",
+    "finish_flag": false,
+    "jdesc": "種類"
+  },
+  {
+    "eword": "objection",
+    "finish_flag": false,
+    "jdesc": "反対"
+  },
+  {
+    "eword": "handout",
+    "finish_flag": false,
+    "jdesc": "資料"
+  },
+  {
+    "eword": "obey",
+    "finish_flag": false,
+    "jdesc": "従う"
+  },
+  {
+    "eword": "identify",
+    "finish_flag": false,
+    "jdesc": "確認する"
+  },
+  {
+    "eword": "starve",
+    "finish_flag": false,
+    "jdesc": "飢える"
   }
 ]
