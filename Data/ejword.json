@@ -898,5 +898,50 @@
     "eword": "tough",
     "finish_flag": false,
     "jdesc": "つらい"
+  },
+  {
+    "eword": "opposed to",
+    "finish_flag": false,
+    "jdesc": "反対で"
+  },
+  {
+    "eword": "somewhat",
+    "finish_flag": false,
+    "jdesc": "やや、いくぶん"
+  },
+  {
+    "eword": "objectively",
+    "finish_flag": false,
+    "jdesc": "客観的に"
+  },
+  {
+    "eword": "slightly",
+    "finish_flag": false,
+    "jdesc": "わずかに"
+  },
+  {
+    "eword": "empathetic",
+    "finish_flag": false,
+    "jdesc": "共感できる"
+  },
+  {
+    "eword": "frivolous",
+    "finish_flag": false,
+    "jdesc": "浅薄な"
+  },
+  {
+    "eword": "juvenile",
+    "finish_flag": false,
+    "jdesc": "子供じみた"
+  },
+  {
+    "eword": "chilly",
+    "finish_flag": false,
+    "jdesc": "冷え冷えする"
+  },
+  {
+    "eword": "astronomy",
+    "finish_flag": false,
+    "jdesc": "天文学"
   }
 ]
