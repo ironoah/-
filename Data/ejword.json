@@ -943,5 +943,70 @@
     "eword": "astronomy",
     "finish_flag": false,
     "jdesc": "天文学"
+  },
+  {
+    "eword": "competent",
+    "finish_flag": false,
+    "jdesc": "有能"
+  },
+  {
+    "eword": "admire",
+    "finish_flag": false,
+    "jdesc": "称賛する"
+  },
+  {
+    "eword": "regard",
+    "finish_flag": false,
+    "jdesc": "見なす"
+  },
+  {
+    "eword": "cheerful",
+    "finish_flag": false,
+    "jdesc": "陽気な"
+  },
+  {
+    "eword": "get lost",
+    "finish_flag": false,
+    "jdesc": "道に迷う"
+  },
+  {
+    "eword": "prevalent",
+    "finish_flag": false,
+    "jdesc": "流行っている"
+  },
+  {
+    "eword": "affliction",
+    "finish_flag": false,
+    "jdesc": "苦悩"
+  },
+  {
+    "eword": "barely",
+    "finish_flag": false,
+    "jdesc": "かろうじて"
+  },
+  {
+    "eword": "upset",
+    "finish_flag": false,
+    "jdesc": "動揺"
+  },
+  {
+    "eword": "protest",
+    "finish_flag": false,
+    "jdesc": "主張する"
+  },
+  {
+    "eword": "compromise",
+    "finish_flag": false,
+    "jdesc": "妥協"
+  },
+  {
+    "eword": "assignment",
+    "finish_flag": false,
+    "jdesc": "宿題"
+  },
+  {
+    "eword": "grading standards",
+    "finish_flag": false,
+    "jdesc": "採点基準"
   }
 ]
