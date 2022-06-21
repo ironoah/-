@@ -39,3 +39,7 @@
 	
 	* アイディア: cdbiff: メールの到着を CD-ROMドライブがお知らせ
 	- ejectコマンド一発。ローテクなところがいい
+
+2022-06-01  ironoah  <ironoah@github.com>
+
+	* 単語帳を追加
